@@ -1,6 +1,4 @@
 //Circular Queue
-//Change second
-//Yet another change
 
 #include<stdio.h>
 #include<stdlib.h>
